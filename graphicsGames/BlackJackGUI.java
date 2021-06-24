@@ -9,7 +9,7 @@ import java.util.*;
 
 import javax.swing.*;
 
-import casino.*;
+import sideClasses.*;
 import javax.swing.JOptionPane;
 
 /**
@@ -47,6 +47,8 @@ public class BlackJackGUI extends JFrame implements ActionListener {
 	static int returning = 0;
 	
 	public static void main(String[] args) {
+	    System.out.println(System.getProperty("user.dir"));
+	  
 		BlackJackGUI frame = new BlackJackGUI(); // create instance of frame with panel
 		frame.setTitle("BlackJack"); // set window title
 		frame.setSize(750, 750); // set size of window

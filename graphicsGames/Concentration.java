@@ -9,7 +9,7 @@ import java.util.*;
 
 import javax.swing.*;
 
-import casino.*;
+import sideClasses.*;
 //include the following 
 import javax.swing.Timer;
 

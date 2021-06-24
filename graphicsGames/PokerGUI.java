@@ -12,7 +12,7 @@ import java.util.*;
 
 import javax.swing.*;
 
-import casino.*;
+import sideClasses.*;
 
 /**
  * @author AndrewLiu12
